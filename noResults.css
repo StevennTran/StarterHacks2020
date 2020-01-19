@@ -1,0 +1,32 @@
+@font-face {
+     
+    font-family: 'Proxima Nova' ;
+    src: url('Proxima-Nova.ttf') format('truetype');
+ 
+ }
+ 
+  @font-face {
+ 
+    font-family: 'Gothic' ;
+    src: url('Raleway.ttf') format('truetype');
+ 
+}
+
+body {
+    font-family: 'Proxima Nova';
+    background-color: #B8A5A6;
+}
+
+
+.mainContent {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.blankProfPic {
+    width: 27.5%;
+    height: 27.5%;
+}
+
