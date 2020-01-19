@@ -32,11 +32,12 @@ background-size:     cover;                      /* <------ */
 }
 
 .blankProfPic {
-    width: 23.5%;
-    height: 23.5%;
+    margin-left: 3em;
+    width: 17.5%;
+    height: 17.5%;
 }
 p {
-    margin-left:10.85em;
+    margin-left:12em;
     text-align: center;
 }
 
