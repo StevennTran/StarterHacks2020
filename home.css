@@ -1,11 +1,20 @@
 body{
-background-image: url("home_images/main_background.png");
+background-image: url("home_images/rsz_redcross.jpg");
 background-color: #1f1717;
+background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center; 
 }
 
 .main_title{
     text-align: center;
     color: white;
+    size: 500px;
+}
+
+.main_title2{
+    text-align: center;
+    color: rgb(248, 72, 72);
     size: 500px;
 }
 

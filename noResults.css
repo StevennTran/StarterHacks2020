@@ -15,6 +15,11 @@
 body {
     font-family: 'Proxima Nova';
     background-color: #B8A5A6;
+    background-image: url("home_images/rsz_redcross.jpg");
+background-color: #1f1717;
+background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center; 
 }
 
 
@@ -26,7 +31,6 @@ body {
     
 }
 
-
 .blankProfPic {
     width: 23.5%;
     height: 23.5%;
@@ -36,3 +40,17 @@ p {
     text-align: center;
 }
 
+.noresult_title{
+    margin-left: 0%;
+    margin-bottom: 0em;
+    color: white;
+}
+
+.noresult_search_container{
+    
+    text-align: center;
+}
+
+h2{
+    color: white;
+}
