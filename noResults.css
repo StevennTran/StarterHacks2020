@@ -20,13 +20,19 @@ body {
 
 .mainContent {
     display: flex;
+    margin-top: 10em;
+    align-items: center;
     justify-content: center;
     
 }
 
 
 .blankProfPic {
-    width: 27.5%;
-    height: 27.5%;
+    width: 23.5%;
+    height: 23.5%;
+}
+p {
+    margin-left:10.85em;
+    text-align: center;
 }
 
