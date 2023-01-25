@@ -1,0 +1,57 @@
+@font-face {
+     
+    font-family: 'Proxima Nova' ;
+    src: url('../assets/Proxima-Nova.ttf') format('truetype');
+ 
+ }
+ 
+  @font-face {
+ 
+    font-family: 'Gothic' ;
+    src: url('../assets/Raleway.ttf') format('truetype');
+ 
+}
+
+body {
+    font-family: 'Proxima Nova';
+    background-color: #B8A5A6;
+    background-image: url("../assets/home_images/rsz_redcross.jpg");
+background-color: #1f1717;
+background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center; 
+}
+
+
+.mainContent {
+    display: flex;
+    margin-top: 2em;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.blankProfPic {
+    margin-left: 3em;
+    width: 17.5%;
+    height: 17.5%;
+}
+p {
+    margin-left:12em;
+    text-align: center;
+}
+
+.noresult_title{
+    margin-left: 0%;
+    margin-bottom: 0em;
+    color: white;
+}
+
+.noresult_search_container{
+    
+    text-align: center;
+}
+
+h2{
+    color: white;
+}
